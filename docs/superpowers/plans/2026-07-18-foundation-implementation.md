@@ -210,7 +210,7 @@ Run `git diff --check`, validate every relative Markdown link, inspect `git diff
 
 Read every changed file as a system. Improve vague, repetitive, contradictory, or generic sections. Confirm each file has one clear responsibility and that no future-sprint payload was introduced.
 
-- [ ] **Step 5: Commit and publish**
+- [x] **Step 5: Commit and publish**
 
 Commit the reviewed foundation with:
 
